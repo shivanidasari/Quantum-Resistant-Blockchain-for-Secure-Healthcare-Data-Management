@@ -82,9 +82,4 @@ This project offers a **future-proof healthcare data security system** by integr
 - ✅ Integrate with IPFS for distributed storage
 - ✅ Add biometric authentication for enhanced security
 - ✅ Use real-world post-quantum libraries like Open Quantum Safe (OQS)
-
-## 👩‍💻 Authors
-- Dasari Shivani  
-- [J.Sai Preethi, P.Sripthi, M.Sirivally]  
-- Department of Electronics and Communication Engineering  
-- BVRIT HYDERABAD College of Engineering for Women  
+ 
